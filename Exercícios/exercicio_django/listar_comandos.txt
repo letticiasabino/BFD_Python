@@ -1,0 +1,15 @@
+# Para criar o projeto com o nome da empresa
+
+django-admin startproject nome_do_projeto
+
+# Entrar na pasta do projeto 
+
+cd nome_do_projeto
+
+# Criando o aplicativo 
+
+python manage.py startapp nome_do_app
+
+# Para rodar no servidor 
+
+python manage.py runserver
