@@ -1,0 +1,48 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+venv/
+.env
+.env/
+
+# Databases
+*.db
+*.sqlite3
+*.sqlite
+
+# Media
+*.mp4
+*.avi
+*.mov
+
+# IDEs and editors
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Archives
+*.zip
+
+# Compiled python files
+*.pyc
+
+# Temporary files
+*.tmp
+*.swp
+
+# Project-specific
+cadastro.db
+exemplo.db
+
+# Video folder
+video/
+
+# Ignore embedded git repos (keep submodule pointer if present)
+Projeto-Integrador/meta_consultancy_system
