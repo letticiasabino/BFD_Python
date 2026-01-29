@@ -53,6 +53,23 @@ Aqui estarão reunidos todos os **exercícios, atividades e avaliações** que c
 
 ### 🧭 _Cada pasta representa uma etapa do curso, com exercícios voltados a diferentes temas de **Python** e **desenvolvimento back-end**._
 
+## 📁 Principais Módulos
+
+| Módulo | Descrição |
+|--------|-----------|
+| 📚 **Aula1-4** | Aulas práticas com Django URLs e Views |
+| 🏭 **adapter** | Padrão Adapter com clientes e parsers |
+| 🏭 **decorator** | Padrão Decorator com exemplos práticos |
+| 🏭 **factory_method** | Padrão Factory Method com creators e pagamentos |
+| 🏭 **simple_factory** | Implementação de Simple Factory |
+| 🧮 **classes_abstratas** | Conceitos de classes abstratas em Python |
+| 🗄️ **Banco-de-Dados** | Scripts SQL, SQLite e exercícios de BD |
+| ⚡ **fastapi** | Projetos com FastAPI |
+| 🎭 **formularios** | Sistema de formulários com Django |
+| 🔧 **mod_6** | Módulo 6 com testes e padaria (projeto integrador) |
+| 📋 **Exercícios** | Diversos exercícios organizados por temas |
+| 📊 **video** | Sistema de consultoria da Meta (projeto integrador) |
+
 ---
 
 ## 📚 O que estou aprendendo
@@ -62,10 +79,14 @@ Aqui estarão reunidos todos os **exercícios, atividades e avaliações** que c
 - 🔁 **Estruturas condicionais e laços de repetição**  
 - ⚙️ **Funções, classes e modularização**  
 - 📂 **Manipulação de arquivos `.txt` e `.csv`**  
-- 🗄️ **Banco de dados com SQLite**  
+- 🗄️ **Banco de dados com SQLite e MySQL**  
 - 🌿 **Controle de versões com Git e GitHub**  
 - 🧠 **Conceitos de POO (Programação Orientada a Objetos)**  
 - 🖥️ **Desenvolvimento Back-End com Python**
+- 🏭 **Padrões de Design** (Adapter, Decorator, Factory Method, Simple Factory)
+- 🎭 **Framework Django** (URLs, Views, Models, Formulários)
+- ⚡ **Framework FastAPI** (APIs modernas e assíncronas)
+- 🧪 **Testes unitários e integração**
 
 ---
 
@@ -83,12 +104,15 @@ Criar um espaço organizado para:
 
 | Ferramenta | Descrição |
 |-------------|------------|
-| 🐍 **Python 3.13.0** | Linguagem principal usada nos estudos |
+| 🐍 **Python 3.13.0+** | Linguagem principal usada nos estudos |
 | 📱 **VS Code** | Ambiente para programar e rodar no desktop |
 | 📱 **Termux** | Ambiente para programar, rodar e versionar o código mobile |
 | 🧑🏽‍💻 **Acode** | Editor usado para editar arquivos `.py`, `.txt`, `.csv` |
-| 🗄️ **SQLite3** | Banco de dados local |
+| 🗄️ **SQLite3 & MySQL** | Bancos de dados locais e remotos |
 | 🌿 **Git & GitHub** | Controle de versão e hospedagem do repositório |
+| 🎭 **Django** | Framework web para desenvolvimento back-end |
+| ⚡ **FastAPI** | Framework moderno para APIs Python |
+| 🧪 **Pytest** | Framework para testes unitários |
 
 ---
 
@@ -106,9 +130,10 @@ Mesmo estudando e programando **pelo celular**, sigo firme aprendendo todos os d
 
 ## 🏆 Status do Repositório
 
-- 📅 **Última atualização:** _(22/10/2025)_  
+- 📅 **Última atualização:** _(29/01/2026)_  
 - ✅ **Exercícios concluídos e organizados por pastas**  
-- 🚧 **Novas atividades e aprimoramentos sendo adicionados semanalmente**  
+- 🚧 **Novas atividades e aprimoramentos sendo adicionados semanalmente**
+- 📚 **Aulas 1-4, Padrões de Desenvolvimento, FastAPI, Django e testes inclusos**  
 
 ---
 
