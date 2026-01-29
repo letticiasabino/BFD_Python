@@ -12,43 +12,20 @@ Aqui estarão reunidos todos os **exercícios, atividades e avaliações** que c
 ## 🗂 Estrutura do Repositório
 
 ```bash
-/storage/documents/BFD-python/
-├── 📁 Avaliações
-│   └── (Atividades avaliativas do curso)
-│
-├── 📁 Banco-de-Dados
-│   └── (Scripts e exercícios de SQL/SQLite)
-│
-├── 📁 exercicio1
-│   ├── _init_.py
-│   ├── class.py
-│   ├── exe01.py
-│   ├── main.py
-│   ├── modulos.py
-│   ├── nomes.txt
-│   ├── nomes_limpos.txt
-│   ├── vendas.csv
-│   └── venv/
-│
-├── 📁 exercicio2
-│   ├── exe001.py
-│   └── venv.py
-│
-├── 📁 exercicio3
-│   ├── dani.py
-│   ├── exe003.py
-│   └── inicio.py
-│
-├── 📁 exercicio4
-│   ├── arquivo.py
-│   ├── sistema-animal.py
-│   └── exercicio005.py
-│
-├── 📁 Git
-│   └── (Anotações e comandos Git)
-│
-└── 📘 Python_BFD_Letticia
-    └── (Passo a passo de como programar pelo celular) 
+BFD_Python/
+├── .git/
+├── .vscode/
+├── Avaliações/
+├── Exercícios/
+├── Projeto-Integrador/
+├── documentos/
+├── exemplos_prof/
+├── Letticia.txt
+├── README.md
+├── avaliacao_bd.txt
+├── cadastro.db
+├── exemplo.db
+└── video/
 ```
 
 ### 🧭 _Cada pasta representa uma etapa do curso, com exercícios voltados a diferentes temas de **Python** e **desenvolvimento back-end**._
