@@ -1,2 +1,0 @@
-import modulos
-modulos.soma()

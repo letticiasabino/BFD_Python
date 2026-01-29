@@ -1,17 +1,11 @@
 # Byte-compiled / cached
 __pycache__/
 *.py[cod]
-*.so
 
 # Distribution / packaging
-.Python
-env/
 venv/
-ENV/
-.venv/
-build/
-dist/
-*.egg-info/
+.env
+.env/
 
 # Databases
 *.db
@@ -25,15 +19,10 @@ dist/
 
 # IDEs and editors
 .vscode/
-*.sublime-project
-*.sublime-workspace
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Python virtual envs
-pip-wheel-metadata/
 
 # Logs
 *.log
@@ -41,28 +30,19 @@ pip-wheel-metadata/
 # Archives
 *.zip
 
-# Ignore compiled python files
+# Compiled python files
 *.pyc
 
-# Ignore node modules (if any)
-node_modules/
-
-# Ignore VS Code workspace storage
-.vscode/
-
-# Ignore Mac files
-*.DS_Store
-
-# Ignore temporary files
+# Temporary files
 *.tmp
 *.swp
 
-# Ignore project-specific local DBs
+# Project-specific
 cadastro.db
 exemplo.db
 
-# Ignore uploaded large video
+# Video folder
 video/
 
-# Submodules (leave pointer if present)
-# Projeto-Integrador/meta_consultancy_system
+# Ignore embedded git repos (keep submodule pointer if present)
+Projeto-Integrador/meta_consultancy_system

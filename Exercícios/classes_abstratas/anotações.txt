@@ -1,9 +1,0 @@
-MySQL é um banco de dados relacional
-MongoDB é um banco de dados não-relacional
-
-Metodos e classes abstratas não criam objetos reais, criam regras abstratas que facilitam 
-
-abc = biblioteca
-ABC = função
-@ = sintaxe 
-abstractmethod = decorator utilizado com o @ (a sintaxe)
