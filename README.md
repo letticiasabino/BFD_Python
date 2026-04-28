@@ -5,7 +5,7 @@ Aqui estarão reunidos todos os **exercícios, atividades e avaliações** que c
 
 💻✨ Parte do projeto foi desenvolvido **direto do celular**, usando **Termux** e **Acode** para programar em Python, versionar e enviar tudo pro **GitHub** via **Git**.  
 📱 Cerca de **80% do código foi feito no ambiente mobile**, provando que dá sim pra estudar e praticar programação com o que se tem em mãos!  
-💡 **Os outros 20% foram produzidos em sala de aula**, com o **VS Code no PC** — **mas o deploy continuou sendo feito pelo celular, também via Git.**  
+💡 **Os outros 20% foram produzidos em sala de aula**, com o **VS Code no PC** 
 
 ---
 
